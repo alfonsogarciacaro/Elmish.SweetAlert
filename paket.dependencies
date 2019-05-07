@@ -1,7 +1,7 @@
 group Main
     source https://api.nuget.org/v3/index.json
     storage:none
-    
+
     nuget FSharp.Core
     nuget Fable.Core
     nuget Fable.Elmish.React

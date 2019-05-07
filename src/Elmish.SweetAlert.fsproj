@@ -20,6 +20,7 @@
     <Compile Include="InputAlert.fs" />
     <Compile Include="SelectAlert.fs" />
     <Compile Include="ConfirmToastAlert.fs" />
+    <Compile Include="CustomConfirmAlert.fs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="*.fsproj; *.fs;" PackagePath="fable\" />
